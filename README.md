@@ -1,26 +1,27 @@
 [![](https://visitcount.itsvg.in/api?id=joshuaFrias95&label=Eres%20la%20visita%20%23&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 # <img height="60" src="https://media.giphy.com/media/mhYeDw9wEWPGo/giphy.gif"/> ¡Hola Mundo, soy Joshua!
-<img align="left" height="450" src="https://media.giphy.com/media/3o7TKtDXJ48AogQxBC/giphy.gif" />
+
+<img align="left" height="400" src="https://media.giphy.com/media/3o7TKtDXJ48AogQxBC/giphy.gif" />
 <br>
 
  🇲🇽 Artista multimedial y desarrollador Backend en constante formación, diseñador y ahora parte del Grupo 5 del programa <a href="https://www.oracle.com/mx/education/oracle-next-education/">Oracle Next Education</a>. ME interesan temas de robotica, Machine learning, sintesis de imagen, instalación artística en Web y tecnologías Back-end.
  <br>
  <br>
-
- <a target="_blank" href="https://www.linkedin.com/in/joshua-fr%C3%ADas/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:jfriash95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
- <br>
- <br>
- # <img height="30" src="https://media.giphy.com/media/DgHkIp2RZVLfW/giphy.gif"/> Sobre mí:
-👯 **Busco colaborar en** proyectos creativos, videojuegos y Machine Learning
 <br>
-🌱 **Actualmente aprendiendo** Java y reforzando Javascript y C++
 <br>
-🖤 **Preguntame por** P5.js, música, cine y libros
 <br>
- <br>
- <br>
- <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/joshua-fr%C3%ADas/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:jfriash95@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
+<br>
+<br>
+<br>
 
 # <img height="40" src="https://media.giphy.com/media/DLsx2ofSyPmcU/giphy.gif"/> Ask me about:
 
@@ -51,6 +52,9 @@
 ### Diseño
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+<br>
+<br>
 
 # <img height="60" src="https://media.giphy.com/media/7sMTyko6HJiCOFmvSm/giphy.gif"/> GitHub Stats:
 
